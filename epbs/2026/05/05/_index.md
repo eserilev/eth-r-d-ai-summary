@@ -2,5 +2,5 @@
 
 ## Topics Discussed
 
-- [[topics/gloas-genesis-definition-issues-fixes|Gloas Genesis Definition Issues and Fixes]]
-- [[topics/payload-attestation-duplicate-vote-prevention|Payload Attestation Duplicate Vote Prevention]]
+- [[topics/gloas-genesis-block-definition-spec-alignment|Gloas Genesis Block Definition Issues and Spec Alignment]]
+- [[topics/payload-attestation-duplicate-vote-prevention|Payload Attestation Duplicate Vote Prevention Discussion]]

@@ -1,6 +1,6 @@
 # Deposit Verification Time Measurement
 
-Deposit verification process timing measurement and performance analysis requests
+Requests and discussions for measuring deposit verification performance and timing
 
 ## Discussions
 - [[epbs/2026/05/13/deposit-verification-time-measurement]]
