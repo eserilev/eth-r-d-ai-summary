@@ -1,0 +1,48 @@
+# epbs — 2026-03-05
+
+## Topics
+
+- [[snap-sync-performance-deployment-coordination]] — Snap sync performance and deployment coordination
+- [[docker-image-build-process-automation]] — Docker image build process and automation
+- [[database-permissions-directory-setup-issues]] — Database permissions and directory setup issues
+- [[docker-image-build-process-automation-2]] — Docker build configuration and tag management
+- [[attestation-reorgs-consensus-analysis]] — Attestation reorgs and consensus analysis
+- [[watchtower-image-update-debugging]] — Watchtower and image update debugging
+- [[node-sync-troubleshooting-execution-client-issues]] — Node sync troubleshooting and execution client issues
+- [[miscellaneous]] — Miscellaneous
+- [[node-sync-troubleshooting-execution-client-issues-2]] — Slow Sync Performance and Network Issues
+- [[finalization-validator-setup-discussion]] — Finalization and Validator Setup Discussion
+- [[handoff-sync-progress-updates]] — Handoff to Sam and Sync Progress Updates
+- [[context-sharing-claude-ai]] — Context Sharing with Claude AI
+- [[geth-sync-status-final-approach]] — Geth Sync Status and Final Approach to Head
+- [[successful-sync-first-block-proposal]] — Successful Sync and First Block Proposal
+- [[prysm-reorging-issues-chain-behavior]] — Prysm Reorging Issues and Chain Behavior
+- [[attestation-data-index-implementation]] — Attestation Data Index Implementation
+- [[finalization-validator-setup-discussion-2]] — Finalization Achievement and Node Updates
+- [[dora-payload-attestations-query]] — Dora Payload Attestations Query
+- [[prysm-syncing-bug-fix-new-build]] — Prysm Syncing Bug Fix and New Build
+- [[branch-management-code-review-discussion]] — Branch Management and Code Review Discussion
+- [[root-cause-analysis-ai-investigation]] — Root Cause Analysis and AI Investigation
+- [[dora-epoch-display-bug]] — Dora Epoch Display Bug
+- [[nimbus-image-update-request]] — Nimbus Image Update Request
+- [[prysm-branch-deployment-discussion]] — Prysm Branch Deployment Discussion
+- [[critical-node-restart-system-crash]] — Critical Node Restart and System Crash
+- [[chain-recovery-warnings-node-management]] — Chain Recovery Warnings and Node Management
+- [[lodestar-deployment-concerns]] — Lodestar Deployment Concerns
+- [[edge-case-discovery-lucky-timing]] — Edge Case Discovery and Lucky Timing
+- [[prysm-recovery-chain-stabilization]] — Prysm Recovery and Chain Stabilization
+- [[log-retrieval-bug-investigation]] — Log Retrieval for Bug Investigation
+- [[prysm-reorging-issues-chain-behavior-2]] — Technical Analysis of Prysm Reorg Issue
+- [[lodestar-fork-choice-implementation-status]] — Lodestar Fork Choice Implementation Status
+- [[devnet-testing-strategy-future-plans]] — Devnet Testing Strategy and Future Plans
+- [[devnet-withdrawals-deposits-stability-impact]] — Devnet withdrawal types and testing strategy
+- [[ptc-state-validation-epoch-boundary]] — PTC state validation at epoch boundary
+- [[consensus-spec-tests-fork-boundary]] — Consensus spec tests for fork boundary
+- [[teku-implementation-status-5]] — Teku client sync issues and improvements
+- [[payload-attestation-message-validation-specs]] — Payload attestations implementation status
+- [[testing-payload-reorgs-devnet]] — Testing payload reorgs on devnet
+- [[engine-api-fcu-empty-blocks-reorg-issue]] — Engine API FCU with empty blocks reorg issue
+- [[checkpoint-sync-state-standardization]] — Checkpoint sync implementation and testing
+- [[fork-boundary-payload-status-specification]] — Fork boundary payload status specification
+- [[gossip-block-handling-unknown-parent-hash]] — Gossip block handling with unknown parent hash
+- [[dora-explorer-bug-report]] — Dora explorer bug report
