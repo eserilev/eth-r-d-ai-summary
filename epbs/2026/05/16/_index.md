@@ -2,6 +2,6 @@
 
 ## Topics Discussed
 
-- [[topics/alpha8-epoch-processing-testing|Alpha8 full epoch processing test]]
-- [[topics/attestation-timing-builder-synchrony-assumptions|Attestation thresholds and builder safety mechanisms]]
-- [[topics/epbs-glamsterdam-devnet-testing|Glam devnet 4 branch deployment]]
+- [[topics/v1-7-0-alpha-8-release-announcement|Alpha8 full epoch processing test]]
+- [[topics/attestation-thresholds-builder-safety-mechanisms|Attestation thresholds and builder safety mechanisms]]
+- [[topics/glam-devnet-4-branch-deployment-timing|Glam devnet 4 branch deployment timing]]

@@ -1,345 +1,349 @@
 {
   "topics": {
-    "miscellaneous-ethereum-rd-discussions": {
-      "slug": "miscellaneous-ethereum-rd-discussions",
-      "title": "Miscellaneous",
-      "description": "General miscellaneous discussions and topics in Ethereum R&D",
-      "occurrences": [
-        {
-          "channel": "epbs",
-          "date": "2026/05/06",
-          "path": "epbs/2026/05/06/miscellaneous-ethereum-rd-discussions"
-        },
-        {
-          "channel": "epbs",
-          "date": "2026/05/11",
-          "path": "epbs/2026/05/11/miscellaneous-ethereum-rd-discussions"
-        },
-        {
-          "channel": "epbs",
-          "date": "2026/05/13",
-          "path": "epbs/2026/05/13/miscellaneous-ethereum-rd-discussions"
-        }
-      ]
-    },
-    "p2p-debugging-tools-scoring-apis": {
-      "slug": "p2p-debugging-tools-scoring-apis",
-      "title": "P2P debugging tools and scoring APIs",
-      "description": "Peer-to-peer network debugging tools and scoring API development",
+    "proposer-boost-builder-unblinding-implementation": {
+      "slug": "proposer-boost-builder-unblinding-implementation",
+      "title": "Proposer Boost and Builder Unblinding Implementation",
+      "description": "Proposer boost mechanism and builder unblinding implementation",
       "occurrences": [
         {
           "channel": "epbs",
           "date": "2026/05/12",
-          "path": "epbs/2026/05/12/p2p-debugging-tools-scoring-apis"
+          "path": "epbs/2026/05/12/proposer-boost-builder-unblinding-implementation"
         }
       ]
     },
-    "consensus-specs-pr-notes": {
-      "slug": "consensus-specs-pr-notes",
-      "title": "Consensus specs PR note addition",
-      "description": "Pull request notes and additions for consensus specifications",
-      "occurrences": [
-        {
-          "channel": "epbs",
-          "date": "2026/05/12",
-          "path": "epbs/2026/05/12/consensus-specs-pr-notes"
-        },
-        {
-          "channel": "epbs",
-          "date": "2026/05/15",
-          "path": "epbs/2026/05/15/consensus-specs-pr-notes"
-        }
-      ]
-    },
-    "payload-attestation-duplicate-vote-prevention": {
-      "slug": "payload-attestation-duplicate-vote-prevention",
-      "title": "Payload Attestation Duplicate Vote Prevention",
-      "description": "Prevention mechanisms for duplicate votes in payload attestations",
-      "occurrences": [
-        {
-          "channel": "epbs",
-          "date": "2026/05/05",
-          "path": "epbs/2026/05/05/payload-attestation-duplicate-vote-prevention"
-        },
-        {
-          "channel": "epbs",
-          "date": "2026/05/06",
-          "path": "epbs/2026/05/06/payload-attestation-duplicate-vote-prevention"
-        }
-      ]
-    },
-    "ssz-blocks-eip-8237-technical-debt": {
-      "slug": "ssz-blocks-eip-8237-technical-debt",
-      "title": "SSZ Blocks vs EIP-8237 Technical Debt Discussion",
-      "description": "Technical debt analysis comparing SSZ blocks implementation with EIP-8237 requirements",
-      "occurrences": [
-        {
-          "channel": "epbs",
-          "date": "2026/05/13",
-          "path": "epbs/2026/05/13/ssz-blocks-eip-8237-technical-debt"
-        }
-      ]
-    },
-    "proposer-boost-equivocation-detection-gloas": {
-      "slug": "proposer-boost-equivocation-detection-gloas",
-      "title": "Proposer Boost and Equivocation Detection in Gloas",
-      "description": "Proposer boost mechanisms and equivocation detection implementation in Gloas",
-      "occurrences": [
-        {
-          "channel": "epbs",
-          "date": "2026/05/13",
-          "path": "epbs/2026/05/13/proposer-boost-equivocation-detection-gloas"
-        }
-      ]
-    },
-    "fork-choice-validator-spec-implementation": {
-      "slug": "fork-choice-validator-spec-implementation",
-      "title": "Fork-choice and validator spec implementation discussion",
-      "description": "Discussion of fork-choice algorithm and validator specification implementation",
-      "occurrences": [
-        {
-          "channel": "epbs",
-          "date": "2026/05/04",
-          "path": "epbs/2026/05/04/fork-choice-validator-spec-implementation"
-        },
-        {
-          "channel": "epbs",
-          "date": "2026/05/07",
-          "path": "epbs/2026/05/07/fork-choice-validator-spec-implementation"
-        },
-        {
-          "channel": "epbs",
-          "date": "2026/05/08",
-          "path": "epbs/2026/05/08/fork-choice-validator-spec-implementation"
-        },
-        {
-          "channel": "epbs",
-          "date": "2026/05/13",
-          "path": "epbs/2026/05/13/fork-choice-validator-spec-implementation"
-        },
-        {
-          "channel": "epbs",
-          "date": "2026/05/14",
-          "path": "epbs/2026/05/14/fork-choice-validator-spec-implementation"
-        }
-      ]
-    },
-    "release-availability-spec-test-validation": {
-      "slug": "release-availability-spec-test-validation",
-      "title": "Release availability and spec test validation",
-      "description": "Release availability status and specification test validation processes",
+    "v1-7-0-alpha-8-release-announcement-2": {
+      "slug": "v1-7-0-alpha-8-release-announcement-2",
+      "title": "v1.7.0-alpha.8 Release Completion",
+      "description": "Version 1.7.0-alpha.8 release announcement and updates",
       "occurrences": [
         {
           "channel": "epbs",
           "date": "2026/05/15",
-          "path": "epbs/2026/05/15/release-availability-spec-test-validation"
+          "path": "epbs/2026/05/15/v1-7-0-alpha-8-release-announcement-2"
         }
       ]
     },
-    "circuit-breakers-builder-fallback": {
-      "slug": "circuit-breakers-builder-fallback",
-      "title": "Circuit Breakers and Builder Fallback Mechanisms",
-      "description": "Circuit breaker implementation and builder fallback mechanism design",
+    "bounded-gossip-message-size-attestations": {
+      "slug": "bounded-gossip-message-size-attestations",
+      "title": "Bounded gossip message size for attestations",
+      "description": "Bounded gossip message size implementation for attestations",
       "occurrences": [
-        {
-          "channel": "epbs",
-          "date": "2026/05/13",
-          "path": "epbs/2026/05/13/circuit-breakers-builder-fallback"
-        }
-      ]
-    },
-    "proposer-code-optimization-caching": {
-      "slug": "proposer-code-optimization-caching",
-      "title": "Proposer Code Optimization and Caching",
-      "description": "Performance optimization and caching strategies for proposer code",
-      "occurrences": [
-        {
-          "channel": "epbs",
-          "date": "2026/05/08",
-          "path": "epbs/2026/05/08/proposer-code-optimization-caching"
-        }
-      ]
-    },
-    "voice-meeting-coordination": {
-      "slug": "voice-meeting-coordination",
-      "title": "Voice Meeting Coordination",
-      "description": "Coordination and scheduling of voice meetings for R&D discussions",
-      "occurrences": [
-        {
-          "channel": "epbs",
-          "date": "2026/05/08",
-          "path": "epbs/2026/05/08/voice-meeting-coordination"
-        }
-      ]
-    },
-    "gloas-genesis-definition-issues-fixes": {
-      "slug": "gloas-genesis-definition-issues-fixes",
-      "title": "Gloas Genesis Definition Issues and Fixes",
-      "description": "Issues and fixes related to Gloas genesis definition",
-      "occurrences": [
-        {
-          "channel": "epbs",
-          "date": "2026/05/05",
-          "path": "epbs/2026/05/05/gloas-genesis-definition-issues-fixes"
-        },
-        {
-          "channel": "epbs",
-          "date": "2026/05/06",
-          "path": "epbs/2026/05/06/gloas-genesis-definition-issues-fixes"
-        },
         {
           "channel": "epbs",
           "date": "2026/05/09",
-          "path": "epbs/2026/05/09/gloas-genesis-definition-issues-fixes"
+          "path": "epbs/2026/05/09/bounded-gossip-message-size-attestations"
         }
       ]
     },
-    "signature-verification-performance-attack-scenarios": {
-      "slug": "signature-verification-performance-attack-scenarios",
-      "title": "Signature Verification Performance and Attack Scenarios",
-      "description": "Performance optimization and security analysis of signature verification processes",
-      "occurrences": [
-        {
-          "channel": "epbs",
-          "date": "2026/05/08",
-          "path": "epbs/2026/05/08/signature-verification-performance-attack-scenarios"
-        }
-      ]
-    },
-    "alpha8-epoch-processing-testing": {
-      "slug": "alpha8-epoch-processing-testing",
-      "title": "Alpha8 full epoch processing test",
-      "description": "Testing and validation of full epoch processing functionality in Alpha8",
-      "occurrences": [
-        {
-          "channel": "epbs",
-          "date": "2026/05/16",
-          "path": "epbs/2026/05/16/alpha8-epoch-processing-testing"
-        }
-      ]
-    },
-    "gloas-genesis-definition-issues-fixes-2": {
-      "slug": "gloas-genesis-definition-issues-fixes-2",
-      "title": "Gloas Genesis Package Updates",
-      "description": "Issues and fixes related to Gloas genesis definition",
-      "occurrences": [
-        {
-          "channel": "epbs",
-          "date": "2026/05/06",
-          "path": "epbs/2026/05/06/gloas-genesis-definition-issues-fixes-2"
-        }
-      ]
-    },
-    "ssz-limits-eip-7688-implementation": {
-      "slug": "ssz-limits-eip-7688-implementation",
-      "title": "SSZ Limits and EIP-7688 Implementation",
-      "description": "SSZ serialization limits and EIP-7688 implementation details",
-      "occurrences": [
-        {
-          "channel": "epbs",
-          "date": "2026/05/08",
-          "path": "epbs/2026/05/08/ssz-limits-eip-7688-implementation"
-        }
-      ]
-    },
-    "ssz-limits-eip-7688-implementation-2": {
-      "slug": "ssz-limits-eip-7688-implementation-2",
-      "title": "SSZ Progressive Container and EIP-7688",
-      "description": "SSZ serialization limits and EIP-7688 implementation details",
-      "occurrences": [
-        {
-          "channel": "epbs",
-          "date": "2026/05/08",
-          "path": "epbs/2026/05/08/ssz-limits-eip-7688-implementation-2"
-        }
-      ]
-    },
-    "builder-withdrawal-delay-changes": {
-      "slug": "builder-withdrawal-delay-changes",
-      "title": "Builder Withdrawal Delay Changes",
-      "description": "Modifications to builder withdrawal timing and delay mechanisms",
-      "occurrences": [
-        {
-          "channel": "epbs",
-          "date": "2026/05/08",
-          "path": "epbs/2026/05/08/builder-withdrawal-delay-changes"
-        }
-      ]
-    },
-    "deposit-verification-time-measurement": {
-      "slug": "deposit-verification-time-measurement",
-      "title": "Deposit Verification Time Measurement Request",
-      "description": "Requests and discussions for measuring deposit verification performance and timing",
-      "occurrences": [
-        {
-          "channel": "epbs",
-          "date": "2026/05/13",
-          "path": "epbs/2026/05/13/deposit-verification-time-measurement"
-        }
-      ]
-    },
-    "offchainlabs-prysm-repository-resources": {
-      "slug": "offchainlabs-prysm-repository-resources",
-      "title": "OffchainLabs Prysm Repository Link",
-      "description": "Repository links and resources for OffchainLabs Prysm client implementation",
-      "occurrences": [
-        {
-          "channel": "epbs",
-          "date": "2026/05/13",
-          "path": "epbs/2026/05/13/offchainlabs-prysm-repository-resources"
-        }
-      ]
-    },
-    "new-transaction-type-deposits": {
-      "slug": "new-transaction-type-deposits",
-      "title": "New Transaction Type for Deposits",
-      "description": "Implementation of new transaction types specifically for deposit operations",
-      "occurrences": [
-        {
-          "channel": "epbs",
-          "date": "2026/05/08",
-          "path": "epbs/2026/05/08/new-transaction-type-deposits"
-        }
-      ]
-    },
-    "assertoor-docker-image-task-support-issues": {
-      "slug": "assertoor-docker-image-task-support-issues",
-      "title": "Assertoor Docker Image and Task Support Issues",
-      "description": "Problems and solutions related to Assertoor Docker images and task execution support",
+    "deposit-spam-testing-gas-limit-config": {
+      "slug": "deposit-spam-testing-gas-limit-config",
+      "title": "Deposit Spam Testing and Gas Limit Configuration",
+      "description": "Deposit spam testing and gas limit configuration discussion",
       "occurrences": [
         {
           "channel": "epbs",
           "date": "2026/05/10",
-          "path": "epbs/2026/05/10/assertoor-docker-image-task-support-issues"
+          "path": "epbs/2026/05/10/deposit-spam-testing-gas-limit-config"
         }
       ]
     },
-    "el-block-building-limits-queue-management": {
-      "slug": "el-block-building-limits-queue-management",
-      "title": "EL Block Building Limits and Queue Management",
-      "description": "Execution layer block building constraints and queue management strategies",
+    "invalid-payload-nimbus-withdrawals-mismatch": {
+      "slug": "invalid-payload-nimbus-withdrawals-mismatch",
+      "title": "Invalid payload and Nimbus withdrawals mismatch",
+      "description": "Invalid payload handling and Nimbus client withdrawals mismatch issues",
+      "occurrences": [
+        {
+          "channel": "epbs",
+          "date": "2026/05/13",
+          "path": "epbs/2026/05/13/invalid-payload-nimbus-withdrawals-mismatch"
+        }
+      ]
+    },
+    "epbs-builder-deposits-dos-vector-2": {
+      "slug": "epbs-builder-deposits-dos-vector-2",
+      "title": "Builder Deposit Queue and DoS Attack Prevention",
+      "description": "ePBS builder deposits denial of service vector analysis",
       "occurrences": [
         {
           "channel": "epbs",
           "date": "2026/05/08",
-          "path": "epbs/2026/05/08/el-block-building-limits-queue-management"
+          "path": "epbs/2026/05/08/epbs-builder-deposits-dos-vector-2"
         }
       ]
     },
-    "honest-payload-reorg-specification": {
-      "slug": "honest-payload-reorg-specification",
-      "title": "Honest payload reorg feature specification",
-      "description": "Specification for honest payload reorganization features",
+    "deposit-verification-measurement-request": {
+      "slug": "deposit-verification-measurement-request",
+      "title": "Deposit verification measurement request",
+      "description": "Deposit verification measurement and performance analysis request",
+      "occurrences": [
+        {
+          "channel": "epbs",
+          "date": "2026/05/13",
+          "path": "epbs/2026/05/13/deposit-verification-measurement-request"
+        }
+      ]
+    },
+    "pr-coordination-next-devnet-release": {
+      "slug": "pr-coordination-next-devnet-release",
+      "title": "PR Coordination for Next Devnet Release",
+      "description": "Pull request coordination and planning for upcoming devnet release",
+      "occurrences": [
+        {
+          "channel": "epbs",
+          "date": "2026/05/14",
+          "path": "epbs/2026/05/14/pr-coordination-next-devnet-release"
+        }
+      ]
+    },
+    "lighthouse-prysm-devnet-connectivity-issues": {
+      "slug": "lighthouse-prysm-devnet-connectivity-issues",
+      "title": "Lighthouse Prysm devnet connectivity and disconnection issues",
+      "description": "Lighthouse and Prysm client connectivity and disconnection issues on devnet",
+      "occurrences": [
+        {
+          "channel": "epbs",
+          "date": "2026/05/09",
+          "path": "epbs/2026/05/09/lighthouse-prysm-devnet-connectivity-issues"
+        }
+      ]
+    },
+    "voice-call-planning-technical-discussion": {
+      "slug": "voice-call-planning-technical-discussion",
+      "title": "Voice Call Planning and Technical Discussion",
+      "description": "Voice call planning and technical discussion coordination",
+      "occurrences": [
+        {
+          "channel": "epbs",
+          "date": "2026/05/08",
+          "path": "epbs/2026/05/08/voice-call-planning-technical-discussion"
+        }
+      ]
+    },
+    "second-queue-implementation-pr-discussion": {
+      "slug": "second-queue-implementation-pr-discussion",
+      "title": "Second Queue Implementation and PR Discussion",
+      "description": "Second queue implementation and pull request discussion",
+      "occurrences": [
+        {
+          "channel": "epbs",
+          "date": "2026/05/08",
+          "path": "epbs/2026/05/08/second-queue-implementation-pr-discussion"
+        }
+      ]
+    },
+    "v1-7-0-alpha-8-release-announcement": {
+      "slug": "v1-7-0-alpha-8-release-announcement",
+      "title": "v1.7.0-alpha.8 Release Announcement",
+      "description": "Version 1.7.0-alpha.8 release announcement and updates",
+      "occurrences": [
+        {
+          "channel": "epbs",
+          "date": "2026/05/15",
+          "path": "epbs/2026/05/15/v1-7-0-alpha-8-release-announcement"
+        },
+        {
+          "channel": "epbs",
+          "date": "2026/05/16",
+          "path": "epbs/2026/05/16/v1-7-0-alpha-8-release-announcement"
+        }
+      ]
+    },
+    "glam-devnet-4-branch-deployment-timing": {
+      "slug": "glam-devnet-4-branch-deployment-timing",
+      "title": "Glam devnet 4 branch deployment timing",
+      "description": "Glam devnet 4 branch deployment scheduling and timing coordination",
+      "occurrences": [
+        {
+          "channel": "epbs",
+          "date": "2026/05/16",
+          "path": "epbs/2026/05/16/glam-devnet-4-branch-deployment-timing"
+        }
+      ]
+    },
+    "gloas-genesis-block-definition-spec-alignment-2": {
+      "slug": "gloas-genesis-block-definition-spec-alignment-2",
+      "title": "Gloas Genesis Fixed",
+      "description": "Gloas genesis block definition issues and specification alignment",
+      "occurrences": [
+        {
+          "channel": "epbs",
+          "date": "2026/05/06",
+          "path": "epbs/2026/05/06/gloas-genesis-block-definition-spec-alignment-2"
+        }
+      ]
+    },
+    "attestation-thresholds-builder-safety-mechanisms": {
+      "slug": "attestation-thresholds-builder-safety-mechanisms",
+      "title": "Attestation thresholds and builder safety mechanisms",
+      "description": "Attestation threshold configuration and builder safety mechanism implementation",
+      "occurrences": [
+        {
+          "channel": "epbs",
+          "date": "2026/05/16",
+          "path": "epbs/2026/05/16/attestation-thresholds-builder-safety-mechanisms"
+        }
+      ]
+    },
+    "precomputation-optimization-strategies": {
+      "slug": "precomputation-optimization-strategies",
+      "title": "Precomputation and Optimization Strategies",
+      "description": "Precomputation and optimization strategies discussion",
+      "occurrences": [
+        {
+          "channel": "epbs",
+          "date": "2026/05/08",
+          "path": "epbs/2026/05/08/precomputation-optimization-strategies"
+        }
+      ]
+    },
+    "devnet-3-client-connectivity-sync-issues": {
+      "slug": "devnet-3-client-connectivity-sync-issues",
+      "title": "Devnet-3 client connectivity and sync issues",
+      "description": "Devnet-3 client connectivity and synchronization issues",
+      "occurrences": [
+        {
+          "channel": "epbs",
+          "date": "2026/05/11",
+          "path": "epbs/2026/05/11/devnet-3-client-connectivity-sync-issues"
+        }
+      ]
+    },
+    "miscellaneous-discussions": {
+      "slug": "miscellaneous-discussions",
+      "title": "Miscellaneous",
+      "description": "General miscellaneous discussions and topics",
+      "occurrences": [
+        {
+          "channel": "epbs",
+          "date": "2026/05/06",
+          "path": "epbs/2026/05/06/miscellaneous-discussions"
+        },
+        {
+          "channel": "epbs",
+          "date": "2026/05/11",
+          "path": "epbs/2026/05/11/miscellaneous-discussions"
+        },
+        {
+          "channel": "epbs",
+          "date": "2026/05/13",
+          "path": "epbs/2026/05/13/miscellaneous-discussions"
+        }
+      ]
+    },
+    "payload-status-badge-same-head-slot-attestations": {
+      "slug": "payload-status-badge-same-head-slot-attestations",
+      "title": "Payload Status Badge for Same Head Slot Attestations",
+      "description": "Payload status badge implementation for same head slot attestations",
+      "occurrences": [
+        {
+          "channel": "epbs",
+          "date": "2026/05/03",
+          "path": "epbs/2026/05/03/payload-status-badge-same-head-slot-attestations"
+        },
+        {
+          "channel": "epbs",
+          "date": "2026/05/04",
+          "path": "epbs/2026/05/04/payload-status-badge-same-head-slot-attestations"
+        }
+      ]
+    },
+    "ssz-limits-eip-7688": {
+      "slug": "ssz-limits-eip-7688",
+      "title": "SSZ Limits and EIP-7688",
+      "description": "SSZ limits and EIP-7688 implementation discussion",
+      "occurrences": [
+        {
+          "channel": "epbs",
+          "date": "2026/05/08",
+          "path": "epbs/2026/05/08/ssz-limits-eip-7688"
+        }
+      ]
+    },
+    "dc8-batch-verification-strategy-performance": {
+      "slug": "dc8-batch-verification-strategy-performance",
+      "title": "DC8 Batch Verification Strategy and Performance",
+      "description": "DC8 batch verification strategy and performance optimization discussion",
+      "occurrences": [
+        {
+          "channel": "epbs",
+          "date": "2026/05/08",
+          "path": "epbs/2026/05/08/dc8-batch-verification-strategy-performance"
+        }
+      ]
+    },
+    "builder-api-proposer-pubkey-index-discussion": {
+      "slug": "builder-api-proposer-pubkey-index-discussion",
+      "title": "Builder API Proposer Pubkey vs Index Discussion",
+      "description": "Builder API proposer public key versus index discussion",
+      "occurrences": [
+        {
+          "channel": "epbs",
+          "date": "2026/05/08",
+          "path": "epbs/2026/05/08/builder-api-proposer-pubkey-index-discussion"
+        }
+      ]
+    },
+    "epbs-builder-deposits-dos-vector": {
+      "slug": "epbs-builder-deposits-dos-vector",
+      "title": "ePBS Builder Deposits DoS Vector",
+      "description": "ePBS builder deposits denial of service vector analysis",
+      "occurrences": [
+        {
+          "channel": "epbs",
+          "date": "2026/05/06",
+          "path": "epbs/2026/05/06/epbs-builder-deposits-dos-vector"
+        },
+        {
+          "channel": "epbs",
+          "date": "2026/05/07",
+          "path": "epbs/2026/05/07/epbs-builder-deposits-dos-vector"
+        },
+        {
+          "channel": "epbs",
+          "date": "2026/05/08",
+          "path": "epbs/2026/05/08/epbs-builder-deposits-dos-vector"
+        },
+        {
+          "channel": "epbs",
+          "date": "2026/05/12",
+          "path": "epbs/2026/05/12/epbs-builder-deposits-dos-vector"
+        }
+      ]
+    },
+    "p2p-syncing-payload-serving-problems": {
+      "slug": "p2p-syncing-payload-serving-problems",
+      "title": "P2P Syncing Issues and Payload Serving Problems",
+      "description": "P2P network synchronization issues and payload serving problems",
+      "occurrences": [
+        {
+          "channel": "epbs",
+          "date": "2026/05/12",
+          "path": "epbs/2026/05/12/p2p-syncing-payload-serving-problems"
+        }
+      ]
+    },
+    "nethermind-node-issues-devnet": {
+      "slug": "nethermind-node-issues-devnet",
+      "title": "Nethermind node issues and devnet discussion",
+      "description": "Nethermind node issues and devnet discussion",
       "occurrences": [
         {
           "channel": "epbs",
           "date": "2026/05/02",
-          "path": "epbs/2026/05/02/honest-payload-reorg-specification"
-        },
+          "path": "epbs/2026/05/02/nethermind-node-issues-devnet"
+        }
+      ]
+    },
+    "assertoor-task-generation-docker-issues": {
+      "slug": "assertoor-task-generation-docker-issues",
+      "title": "Assertoor Task Generation and Docker Image Issues",
+      "description": "Assertoor task generation and Docker image related issues",
+      "occurrences": [
         {
           "channel": "epbs",
-          "date": "2026/05/06",
-          "path": "epbs/2026/05/06/honest-payload-reorg-specification"
+          "date": "2026/05/10",
+          "path": "epbs/2026/05/10/assertoor-task-generation-docker-issues"
         }
       ]
     },
@@ -360,95 +364,324 @@
         }
       ]
     },
-    "attestation-timing-builder-synchrony-assumptions": {
-      "slug": "attestation-timing-builder-synchrony-assumptions",
-      "title": "Attestation timing and builder synchrony assumptions",
-      "description": "Discussion of timing requirements and synchrony assumptions for attestations and builders",
+    "image-rollout-updates": {
+      "slug": "image-rollout-updates",
+      "title": "Image Rollout Updates",
+      "description": "Container image rollout updates and deployment coordination",
       "occurrences": [
         {
           "channel": "epbs",
-          "date": "2026/05/07",
-          "path": "epbs/2026/05/07/attestation-timing-builder-synchrony-assumptions"
-        },
-        {
-          "channel": "epbs",
-          "date": "2026/05/15",
-          "path": "epbs/2026/05/15/attestation-timing-builder-synchrony-assumptions"
-        },
-        {
-          "channel": "epbs",
-          "date": "2026/05/16",
-          "path": "epbs/2026/05/16/attestation-timing-builder-synchrony-assumptions"
+          "date": "2026/05/12",
+          "path": "epbs/2026/05/12/image-rollout-updates"
         }
       ]
     },
-    "attestation-gossip-message-size-bounds": {
-      "slug": "attestation-gossip-message-size-bounds",
-      "title": "Soldøgn attestation gossip message size bounds",
-      "description": "Analysis of message size constraints for attestation gossip in Soldøgn",
-      "occurrences": [
-        {
-          "channel": "epbs",
-          "date": "2026/05/09",
-          "path": "epbs/2026/05/09/attestation-gossip-message-size-bounds"
-        }
-      ]
-    },
-    "builder-deposit-fees-exit-costs": {
-      "slug": "builder-deposit-fees-exit-costs",
-      "title": "Builder Deposit Fees and Exit Costs",
-      "description": "Builder deposit fee structures and validator exit cost analysis",
+    "el-deposit-limits-gas-considerations": {
+      "slug": "el-deposit-limits-gas-considerations",
+      "title": "EL Deposit Limits and Gas Considerations",
+      "description": "Execution layer deposit limits and gas cost considerations",
       "occurrences": [
         {
           "channel": "epbs",
           "date": "2026/05/08",
-          "path": "epbs/2026/05/08/builder-deposit-fees-exit-costs"
+          "path": "epbs/2026/05/08/el-deposit-limits-gas-considerations"
+        }
+      ]
+    },
+    "bot-pr-title-issues": {
+      "slug": "bot-pr-title-issues",
+      "title": "Bot and PR Title Issues",
+      "description": "Bot and pull request title related issues and discussions",
+      "occurrences": [
+        {
+          "channel": "epbs",
+          "date": "2026/05/06",
+          "path": "epbs/2026/05/06/bot-pr-title-issues"
+        }
+      ]
+    },
+    "invalid-valid-signatures-discussion": {
+      "slug": "invalid-valid-signatures-discussion",
+      "title": "Invalid vs Valid Signatures Discussion",
+      "description": "Invalid versus valid signatures verification and handling discussion",
+      "occurrences": [
+        {
+          "channel": "epbs",
+          "date": "2026/05/08",
+          "path": "epbs/2026/05/08/invalid-valid-signatures-discussion"
+        }
+      ]
+    },
+    "proposer-boost-equivocation-detection-gloas": {
+      "slug": "proposer-boost-equivocation-detection-gloas",
+      "title": "Proposer boost and equivocation detection in Gloas",
+      "description": "Proposer boost mechanism and equivocation detection implementation in Gloas",
+      "occurrences": [
+        {
+          "channel": "epbs",
+          "date": "2026/05/13",
+          "path": "epbs/2026/05/13/proposer-boost-equivocation-detection-gloas"
+        }
+      ]
+    },
+    "builder-deposit-testing-queue-management": {
+      "slug": "builder-deposit-testing-queue-management",
+      "title": "Builder Deposit Testing and Queue Management",
+      "description": "Builder deposit testing procedures and queue management strategies",
+      "occurrences": [
+        {
+          "channel": "epbs",
+          "date": "2026/05/14",
+          "path": "epbs/2026/05/14/builder-deposit-testing-queue-management"
+        }
+      ]
+    },
+    "fork-choice-validator-spec-implementation-2": {
+      "slug": "fork-choice-validator-spec-implementation-2",
+      "title": "Fork choice type tests viability",
+      "description": "Fork choice algorithm and validator specification implementation",
+      "occurrences": [
+        {
+          "channel": "epbs",
+          "date": "2026/05/04",
+          "path": "epbs/2026/05/04/fork-choice-validator-spec-implementation-2"
+        }
+      ]
+    },
+    "gloas-genesis-block-definition-spec-alignment": {
+      "slug": "gloas-genesis-block-definition-spec-alignment",
+      "title": "Gloas Genesis Block Definition Issues and Spec Alignment",
+      "description": "Gloas genesis block definition issues and specification alignment",
+      "occurrences": [
+        {
+          "channel": "epbs",
+          "date": "2026/05/05",
+          "path": "epbs/2026/05/05/gloas-genesis-block-definition-spec-alignment"
+        },
+        {
+          "channel": "epbs",
+          "date": "2026/05/06",
+          "path": "epbs/2026/05/06/gloas-genesis-block-definition-spec-alignment"
+        },
+        {
+          "channel": "epbs",
+          "date": "2026/05/08",
+          "path": "epbs/2026/05/08/gloas-genesis-block-definition-spec-alignment"
+        },
+        {
+          "channel": "epbs",
+          "date": "2026/05/09",
+          "path": "epbs/2026/05/09/gloas-genesis-block-definition-spec-alignment"
+        }
+      ]
+    },
+    "builder-timing-synchrony-assumptions": {
+      "slug": "builder-timing-synchrony-assumptions",
+      "title": "Builder Timing and Synchrony Assumptions",
+      "description": "Builder timing and synchrony assumptions discussion",
+      "occurrences": [
+        {
+          "channel": "epbs",
+          "date": "2026/05/07",
+          "path": "epbs/2026/05/07/builder-timing-synchrony-assumptions"
+        }
+      ]
+    },
+    "queue-race-conditions-withdrawal-credentials": {
+      "slug": "queue-race-conditions-withdrawal-credentials",
+      "title": "Queue Race Conditions and Withdrawal Credentials",
+      "description": "Queue race conditions and withdrawal credentials handling",
+      "occurrences": [
+        {
+          "channel": "epbs",
+          "date": "2026/05/08",
+          "path": "epbs/2026/05/08/queue-race-conditions-withdrawal-credentials"
+        }
+      ]
+    },
+    "consensus-specs-pr-validation-discussion": {
+      "slug": "consensus-specs-pr-validation-discussion",
+      "title": "Consensus Specs PR Validation Discussion",
+      "description": "Consensus specifications pull request validation discussion",
+      "occurrences": [
+        {
+          "channel": "epbs",
+          "date": "2026/05/08",
+          "path": "epbs/2026/05/08/consensus-specs-pr-validation-discussion"
+        },
+        {
+          "channel": "epbs",
+          "date": "2026/05/12",
+          "path": "epbs/2026/05/12/consensus-specs-pr-validation-discussion"
+        }
+      ]
+    },
+    "eip-8237-discussion-implementation": {
+      "slug": "eip-8237-discussion-implementation",
+      "title": "EIP-8237 Discussion and Implementation",
+      "description": "EIP-8237 discussion and implementation details",
+      "occurrences": [
+        {
+          "channel": "epbs",
+          "date": "2026/05/12",
+          "path": "epbs/2026/05/12/eip-8237-discussion-implementation"
+        },
+        {
+          "channel": "epbs",
+          "date": "2026/05/13",
+          "path": "epbs/2026/05/13/eip-8237-discussion-implementation"
+        }
+      ]
+    },
+    "fallback-mechanisms-circuit-breakers-gloas": {
+      "slug": "fallback-mechanisms-circuit-breakers-gloas",
+      "title": "Fallback mechanisms and circuit breakers in Gloas",
+      "description": "Fallback mechanisms and circuit breaker implementation in Gloas",
+      "occurrences": [
+        {
+          "channel": "epbs",
+          "date": "2026/05/13",
+          "path": "epbs/2026/05/13/fallback-mechanisms-circuit-breakers-gloas"
+        }
+      ]
+    },
+    "honest-payload-reorg-execution-timing": {
+      "slug": "honest-payload-reorg-execution-timing",
+      "title": "Honest payload reorg feature and payload execution timing",
+      "description": "Honest payload reorg feature and payload execution timing",
+      "occurrences": [
+        {
+          "channel": "epbs",
+          "date": "2026/05/02",
+          "path": "epbs/2026/05/02/honest-payload-reorg-execution-timing"
+        },
+        {
+          "channel": "epbs",
+          "date": "2026/05/06",
+          "path": "epbs/2026/05/06/honest-payload-reorg-execution-timing"
+        }
+      ]
+    },
+    "gas-limit-validation-proposer-preferences-bids": {
+      "slug": "gas-limit-validation-proposer-preferences-bids",
+      "title": "Gas limit validation in proposer preferences and bids",
+      "description": "Gas limit validation implementation in proposer preferences and bidding",
+      "occurrences": [
+        {
+          "channel": "epbs",
+          "date": "2026/05/11",
+          "path": "epbs/2026/05/11/gas-limit-validation-proposer-preferences-bids"
+        }
+      ]
+    },
+    "ethspecify-tool-issue-spec-testing": {
+      "slug": "ethspecify-tool-issue-spec-testing",
+      "title": "Ethspecify Tool Issue and Spec Testing",
+      "description": "Ethspecify tool issues and specification testing discussion",
+      "occurrences": [
+        {
+          "channel": "epbs",
+          "date": "2026/05/15",
+          "path": "epbs/2026/05/15/ethspecify-tool-issue-spec-testing"
+        }
+      ]
+    },
+    "p2p-testing-scoring-tools": {
+      "slug": "p2p-testing-scoring-tools",
+      "title": "P2P Testing and Scoring Tools",
+      "description": "P2P network testing and scoring tools development",
+      "occurrences": [
+        {
+          "channel": "epbs",
+          "date": "2026/05/12",
+          "path": "epbs/2026/05/12/p2p-testing-scoring-tools"
+        }
+      ]
+    },
+    "dynamic-pricing-deposit-contract-changes": {
+      "slug": "dynamic-pricing-deposit-contract-changes",
+      "title": "Dynamic Pricing and Deposit Contract Changes",
+      "description": "Dynamic pricing mechanisms and deposit contract changes",
+      "occurrences": [
+        {
+          "channel": "epbs",
+          "date": "2026/05/08",
+          "path": "epbs/2026/05/08/dynamic-pricing-deposit-contract-changes"
+        }
+      ]
+    },
+    "fork-choice-validator-spec-implementation": {
+      "slug": "fork-choice-validator-spec-implementation",
+      "title": "Fork-choice and validator spec implementation",
+      "description": "Fork choice algorithm and validator specification implementation",
+      "occurrences": [
+        {
+          "channel": "epbs",
+          "date": "2026/05/04",
+          "path": "epbs/2026/05/04/fork-choice-validator-spec-implementation"
+        },
+        {
+          "channel": "epbs",
+          "date": "2026/05/07",
+          "path": "epbs/2026/05/07/fork-choice-validator-spec-implementation"
+        },
+        {
+          "channel": "epbs",
+          "date": "2026/05/13",
+          "path": "epbs/2026/05/13/fork-choice-validator-spec-implementation"
         },
         {
           "channel": "epbs",
           "date": "2026/05/14",
-          "path": "epbs/2026/05/14/builder-deposit-fees-exit-costs"
+          "path": "epbs/2026/05/14/fork-choice-validator-spec-implementation"
         }
       ]
     },
-    "kurtosis-deposit-stress-testing-configuration": {
-      "slug": "kurtosis-deposit-stress-testing-configuration",
-      "title": "Kurtosis deposit stress testing configuration",
-      "description": "Configuration and setup for deposit stress testing using Kurtosis",
+    "p2p-configuration-kt-runs-setup": {
+      "slug": "p2p-configuration-kt-runs-setup",
+      "title": "P2P Configuration and KT Runs Setup",
+      "description": "P2P network configuration and KT runs setup discussion",
       "occurrences": [
-        {
-          "channel": "epbs",
-          "date": "2026/05/09",
-          "path": "epbs/2026/05/09/kurtosis-deposit-stress-testing-configuration"
-        },
         {
           "channel": "epbs",
           "date": "2026/05/10",
-          "path": "epbs/2026/05/10/kurtosis-deposit-stress-testing-configuration"
-        },
-        {
-          "channel": "epbs",
-          "date": "2026/05/12",
-          "path": "epbs/2026/05/12/kurtosis-deposit-stress-testing-configuration"
+          "path": "epbs/2026/05/10/p2p-configuration-kt-runs-setup"
         }
       ]
     },
-    "eip-8237-implementation-discussion": {
-      "slug": "eip-8237-implementation-discussion",
-      "title": "EIP 8237 discussion and implementation considerations",
-      "description": "Discussion and implementation considerations for EIP-8237 specification",
+    "payload-attestation-duplicate-vote-prevention": {
+      "slug": "payload-attestation-duplicate-vote-prevention",
+      "title": "Payload Attestation Duplicate Vote Prevention Discussion",
+      "description": "Payload attestation duplicate vote prevention discussion",
       "occurrences": [
         {
           "channel": "epbs",
-          "date": "2026/05/12",
-          "path": "epbs/2026/05/12/eip-8237-implementation-discussion"
+          "date": "2026/05/05",
+          "path": "epbs/2026/05/05/payload-attestation-duplicate-vote-prevention"
+        },
+        {
+          "channel": "epbs",
+          "date": "2026/05/06",
+          "path": "epbs/2026/05/06/payload-attestation-duplicate-vote-prevention"
+        }
+      ]
+    },
+    "builder-payload-reveal-timing-discussion": {
+      "slug": "builder-payload-reveal-timing-discussion",
+      "title": "Builder Payload Reveal Timing Discussion",
+      "description": "Builder payload reveal timing mechanisms and coordination discussion",
+      "occurrences": [
+        {
+          "channel": "epbs",
+          "date": "2026/05/15",
+          "path": "epbs/2026/05/15/builder-payload-reveal-timing-discussion"
         }
       ]
     },
     "block-production-stability-fixes": {
       "slug": "block-production-stability-fixes",
       "title": "Block production stability fixes",
-      "description": "Fixes and improvements for block production stability",
+      "description": "Block production stability fixes",
       "occurrences": [
         {
           "channel": "epbs",
@@ -457,56 +690,22 @@
         }
       ]
     },
-    "fork-choice-testing-viability": {
-      "slug": "fork-choice-testing-viability",
-      "title": "Fork choice testing viability",
-      "description": "Testing approaches and viability for fork choice mechanisms",
+    "32-eth-requirement-opposition-final-comments": {
+      "slug": "32-eth-requirement-opposition-final-comments",
+      "title": "32 ETH Requirement Opposition and Final Comments",
+      "description": "Opposition to 32 ETH requirement and final discussion comments",
       "occurrences": [
-        {
-          "channel": "epbs",
-          "date": "2026/05/04",
-          "path": "epbs/2026/05/04/fork-choice-testing-viability"
-        }
-      ]
-    },
-    "epbs-builder-deposits-gas-limit-dos": {
-      "slug": "epbs-builder-deposits-gas-limit-dos",
-      "title": "ePBS Builder Deposits and Gas Limit DoS Concerns",
-      "description": "ePBS builder deposits and gas limit denial of service concerns",
-      "occurrences": [
-        {
-          "channel": "epbs",
-          "date": "2026/05/06",
-          "path": "epbs/2026/05/06/epbs-builder-deposits-gas-limit-dos"
-        },
-        {
-          "channel": "epbs",
-          "date": "2026/05/07",
-          "path": "epbs/2026/05/07/epbs-builder-deposits-gas-limit-dos"
-        },
         {
           "channel": "epbs",
           "date": "2026/05/08",
-          "path": "epbs/2026/05/08/epbs-builder-deposits-gas-limit-dos"
-        }
-      ]
-    },
-    "devnet-client-connectivity-sync-issues": {
-      "slug": "devnet-client-connectivity-sync-issues",
-      "title": "Devnet-3 Client Connectivity and Sync Issues",
-      "description": "Client connectivity and synchronization problems on development networks",
-      "occurrences": [
-        {
-          "channel": "epbs",
-          "date": "2026/05/11",
-          "path": "epbs/2026/05/11/devnet-client-connectivity-sync-issues"
+          "path": "epbs/2026/05/08/32-eth-requirement-opposition-final-comments"
         }
       ]
     },
     "ptc-payload-investigation": {
       "slug": "ptc-payload-investigation",
-      "title": "PTC payload investigation",
-      "description": "Investigation and analysis of PTC payload related issues",
+      "title": "PTC Payload Investigation",
+      "description": "PTC payload investigation and analysis",
       "occurrences": [
         {
           "channel": "epbs",
@@ -515,198 +714,56 @@
         }
       ]
     },
-    "image-deployment-updates": {
-      "slug": "image-deployment-updates",
-      "title": "Image deployment update",
-      "description": "Updates and modifications to container image deployment processes",
-      "occurrences": [
-        {
-          "channel": "epbs",
-          "date": "2026/05/12",
-          "path": "epbs/2026/05/12/image-deployment-updates"
-        }
-      ]
-    },
-    "exit-churn-attack-cost-mitigation": {
-      "slug": "exit-churn-attack-cost-mitigation",
-      "title": "Exit Churn and Attack Cost Mitigation",
-      "description": "Validator exit churn management and attack cost mitigation strategies",
+    "new-transaction-type-deposits": {
+      "slug": "new-transaction-type-deposits",
+      "title": "New Transaction Type for Deposits",
+      "description": "New transaction type implementation for deposit handling",
       "occurrences": [
         {
           "channel": "epbs",
           "date": "2026/05/08",
-          "path": "epbs/2026/05/08/exit-churn-attack-cost-mitigation"
+          "path": "epbs/2026/05/08/new-transaction-type-deposits"
         }
       ]
     },
-    "second-queue-solution-race-conditions": {
-      "slug": "second-queue-solution-race-conditions",
-      "title": "Second Queue Solution and Race Conditions",
-      "description": "Queue management solutions and race condition handling mechanisms",
+    "attack-economics-free-recovery-mechanism": {
+      "slug": "attack-economics-free-recovery-mechanism",
+      "title": "Attack Economics and Free Recovery Mechanism",
+      "description": "Attack economics analysis and free recovery mechanism discussion",
       "occurrences": [
         {
           "channel": "epbs",
           "date": "2026/05/08",
-          "path": "epbs/2026/05/08/second-queue-solution-race-conditions"
+          "path": "epbs/2026/05/08/attack-economics-free-recovery-mechanism"
         }
       ]
     },
-    "builder-api-proposer-index-vs-pubkey": {
-      "slug": "builder-api-proposer-index-vs-pubkey",
-      "title": "Builder API Proposer Index vs Pubkey",
-      "description": "Builder API design considerations for proposer identification methods",
-      "occurrences": [
-        {
-          "channel": "epbs",
-          "date": "2026/05/08",
-          "path": "epbs/2026/05/08/builder-api-proposer-index-vs-pubkey"
-        }
-      ]
-    },
-    "p2p-configuration-ethereum-package-setup": {
-      "slug": "p2p-configuration-ethereum-package-setup",
-      "title": "P2P Configuration and Ethereum Package Setup",
-      "description": "Peer-to-peer network configuration and Ethereum package installation setup",
-      "occurrences": [
-        {
-          "channel": "epbs",
-          "date": "2026/05/10",
-          "path": "epbs/2026/05/10/p2p-configuration-ethereum-package-setup"
-        }
-      ]
-    },
-    "proposer-boost-builder-unblinding-equivocation": {
-      "slug": "proposer-boost-builder-unblinding-equivocation",
-      "title": "Proposer boost and builder unblinding equivocation handling",
-      "description": "Proposer boost mechanisms and builder unblinding equivocation handling strategies",
-      "occurrences": [
-        {
-          "channel": "epbs",
-          "date": "2026/05/12",
-          "path": "epbs/2026/05/12/proposer-boost-builder-unblinding-equivocation"
-        }
-      ]
-    },
-    "p2p-sync-payload-serving-problems": {
-      "slug": "p2p-sync-payload-serving-problems",
-      "title": "P2P sync issues and payload serving problems",
-      "description": "Peer-to-peer synchronization issues and payload serving problem resolution",
-      "occurrences": [
-        {
-          "channel": "epbs",
-          "date": "2026/05/12",
-          "path": "epbs/2026/05/12/p2p-sync-payload-serving-problems"
-        }
-      ]
-    },
-    "gas-limit-validation-proposer-preferences": {
-      "slug": "gas-limit-validation-proposer-preferences",
-      "title": "Gas Limit Validation and Proposer Preferences",
-      "description": "Gas limit validation mechanisms and proposer preference handling",
-      "occurrences": [
-        {
-          "channel": "epbs",
-          "date": "2026/05/11",
-          "path": "epbs/2026/05/11/gas-limit-validation-proposer-preferences"
-        }
-      ]
-    },
-    "nimbus-invalid-payload-bug-report": {
-      "slug": "nimbus-invalid-payload-bug-report",
-      "title": "Nimbus Invalid Payload Bug Report",
-      "description": "Bug reports and fixes for invalid payload handling in Nimbus client",
-      "occurrences": [
-        {
-          "channel": "epbs",
-          "date": "2026/05/13",
-          "path": "epbs/2026/05/13/nimbus-invalid-payload-bug-report"
-        }
-      ]
-    },
-    "payload-status-badge-same-head-slot-attestations": {
-      "slug": "payload-status-badge-same-head-slot-attestations",
-      "title": "Payload Status Badge for Same Head Slot Attestations",
-      "description": "Payload status badge implementation for attestations with same head slot",
-      "occurrences": [
-        {
-          "channel": "epbs",
-          "date": "2026/05/03",
-          "path": "epbs/2026/05/03/payload-status-badge-same-head-slot-attestations"
-        },
-        {
-          "channel": "epbs",
-          "date": "2026/05/04",
-          "path": "epbs/2026/05/04/payload-status-badge-same-head-slot-attestations"
-        }
-      ]
-    },
-    "pr-merges-dual-deadlines-implementation": {
-      "slug": "pr-merges-dual-deadlines-implementation",
-      "title": "PR Merges and Dual Deadlines Implementation",
-      "description": "Pull request merges and dual deadlines implementation discussions",
-      "occurrences": [
-        {
-          "channel": "epbs",
-          "date": "2026/05/06",
-          "path": "epbs/2026/05/06/pr-merges-dual-deadlines-implementation"
-        },
-        {
-          "channel": "epbs",
-          "date": "2026/05/14",
-          "path": "epbs/2026/05/14/pr-merges-dual-deadlines-implementation"
-        }
-      ]
-    },
-    "epbs-glamsterdam-devnet-testing": {
-      "slug": "epbs-glamsterdam-devnet-testing",
-      "title": "ePBS testing issues on glamsterdam devnet",
-      "description": "ePBS protocol testing problems and solutions on glamsterdam development network",
-      "occurrences": [
-        {
-          "channel": "epbs",
-          "date": "2026/05/12",
-          "path": "epbs/2026/05/12/epbs-glamsterdam-devnet-testing"
-        },
-        {
-          "channel": "epbs",
-          "date": "2026/05/16",
-          "path": "epbs/2026/05/16/epbs-glamsterdam-devnet-testing"
-        }
-      ]
-    },
-    "dynamic-gas-pricing-deposit-contract-changes": {
-      "slug": "dynamic-gas-pricing-deposit-contract-changes",
-      "title": "Dynamic Gas Pricing and Deposit Contract Changes",
-      "description": "Dynamic gas pricing mechanisms and deposit contract modifications",
-      "occurrences": [
-        {
-          "channel": "epbs",
-          "date": "2026/05/08",
-          "path": "epbs/2026/05/08/dynamic-gas-pricing-deposit-contract-changes"
-        }
-      ]
-    },
-    "nethermind-node-issues-channel-migration": {
-      "slug": "nethermind-node-issues-channel-migration",
-      "title": "Nethermind node issues and channel migration",
-      "description": "Nethermind client node problems and discussion channel migration",
-      "occurrences": [
-        {
-          "channel": "epbs",
-          "date": "2026/05/02",
-          "path": "epbs/2026/05/02/nethermind-node-issues-channel-migration"
-        }
-      ]
-    },
-    "lighthouse-prysm-connectivity-glamsterdam-devnet": {
-      "slug": "lighthouse-prysm-connectivity-glamsterdam-devnet",
-      "title": "Lighthouse Prysm connectivity issues on glamsterdam devnet",
-      "description": "Client connectivity problems between Lighthouse and Prysm on glamsterdam devnet",
+    "kurtosis-deposit-stress-testing-configuration": {
+      "slug": "kurtosis-deposit-stress-testing-configuration",
+      "title": "Kurtosis deposit stress testing configuration",
+      "description": "Kurtosis deposit stress testing setup and configuration discussion",
       "occurrences": [
         {
           "channel": "epbs",
           "date": "2026/05/09",
-          "path": "epbs/2026/05/09/lighthouse-prysm-connectivity-glamsterdam-devnet"
+          "path": "epbs/2026/05/09/kurtosis-deposit-stress-testing-configuration"
+        },
+        {
+          "channel": "epbs",
+          "date": "2026/05/12",
+          "path": "epbs/2026/05/12/kurtosis-deposit-stress-testing-configuration"
+        }
+      ]
+    },
+    "execution-payload-envelopes-range-sync-differences": {
+      "slug": "execution-payload-envelopes-range-sync-differences",
+      "title": "ExecutionPayloadEnvelopesByRange sync implementation differences",
+      "description": "ExecutionPayloadEnvelopesByRange synchronization implementation differences",
+      "occurrences": [
+        {
+          "channel": "epbs",
+          "date": "2026/05/11",
+          "path": "epbs/2026/05/11/execution-payload-envelopes-range-sync-differences"
         }
       ]
     }

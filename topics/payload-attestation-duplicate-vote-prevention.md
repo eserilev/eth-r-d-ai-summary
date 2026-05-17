@@ -1,6 +1,6 @@
 # Payload Attestation Duplicate Vote Prevention
 
-Prevention mechanisms for duplicate votes in payload attestations
+Payload attestation duplicate vote prevention discussion
 
 ## Discussions
 - [[epbs/2026/05/05/payload-attestation-duplicate-vote-prevention]]

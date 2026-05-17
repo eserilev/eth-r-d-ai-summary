@@ -1,6 +1,6 @@
 # New Transaction Type Deposits
 
-Implementation of new transaction types specifically for deposit operations
+New transaction type implementation for deposit handling
 
 ## Discussions
 - [[epbs/2026/05/08/new-transaction-type-deposits]]
